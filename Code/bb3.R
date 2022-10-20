@@ -1,0 +1,1 @@
+#delete everything foreverXZL<cm :LSD M:LSZM CZC :L;
