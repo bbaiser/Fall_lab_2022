@@ -1,5 +1,5 @@
 #test script for lab meeting
-#should i delete the repository again
+#should i delete the repository again. I think you can keep it
 
 #Round three of this madness!! SKL
 
