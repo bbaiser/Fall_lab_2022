@@ -12,6 +12,12 @@
 #Bye
 
 
+#Ready.Set.Let's Go!!!!!!
+a<-1+1
+number <- 1+1
+new_number <- number*5
+
+
 a<-1+1
 b<-2+2
 c<-a*b
@@ -28,4 +34,5 @@ biplot(iris_pca)
 
 
          
+
 
