@@ -12,3 +12,4 @@
 #Ready.Set.Let's Go!!!!!!
 
 number <- 1+1
+new_number <- number*5
