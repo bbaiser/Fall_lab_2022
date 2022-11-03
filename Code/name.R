@@ -16,6 +16,8 @@ c<-a*b
 c
 
 
+number <- 1+1
+
 iris_pca<-princomp(scale(iris[,c(1:4)]))
 
 summary(iris_pca)
