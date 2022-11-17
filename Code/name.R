@@ -25,14 +25,19 @@ c
 
 
 number <- 1+1
-
+#Iris PCA
 iris_pca<-princomp(scale(iris[,c(1:4)]))
 
 summary(iris_pca)
 
 biplot(iris_pca)
 
+#Iris PCA only forst three vars
+iris_pca<-princomp(scale(iris[,c(1:3)]))
 
+summary(iris_pca)
+
+
+biplot(iris_pca)
          
-
 
