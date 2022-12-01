@@ -38,19 +38,6 @@ biplot(iris_pca)
 # HEAD is now at 43fb9ca Merge branch 'main' into bbaiser
 # 
 # C:\Users\biogirl92\OneDrive - University of Florida\Documents\Graduate Assistanship\Github\Fall_lab_2022_ben>git status
-# On branch main
-# Your branch is behind 'origin/main' by 3 commits, and can be fast-forwarded.
-# (use "git pull" to update your local branch)
-# 
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-# .gitignore
-# Fall_lab_2022_ben.Rproj
-# Test_2.0.Rproj
-# 
-# nothing added to commit but untracked files present (use "git add" to track)
-# 
-# C:\Users\biogirl92\OneDrive - University of Florida\Documents\Graduate Assistanship\Github\Fall_lab_2022_ben>git push -f origin main
 
          
 
