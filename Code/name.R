@@ -29,5 +29,5 @@ iris_pca<-princomp(scale(iris[,c(1:4)]))
 summary(iris_pca)
 biplot(iris_pca)
 
-         
+add some stuff
 
