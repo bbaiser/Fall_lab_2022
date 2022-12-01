@@ -30,4 +30,6 @@ summary(iris_pca)
 biplot(iris_pca)
 
          
+#making changes to revert
 
+y=mx+b
