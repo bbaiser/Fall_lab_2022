@@ -29,5 +29,11 @@ iris_pca<-princomp(scale(iris[,c(1:4)]))
 summary(iris_pca)
 biplot(iris_pca)
 
-add some stuff
 
+#add some stuff
+
+         
+#making changes to revert
+
+
+y=mx+b
